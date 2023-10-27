@@ -1,11 +1,12 @@
 .logomarca{
     background-color: darkred;
-    text-align: center;
+    text-align: center;}
 
-}
+
+
 
 .texto{background-color: rgb(255, 0, 0);}
  
 
-    p{font-size: 200%;
-        background-color: aliceblue;}
+    p{font-size: 50%;
+        color: aliceblue;}
