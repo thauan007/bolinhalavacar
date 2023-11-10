@@ -12,7 +12,8 @@ padding: 0px;}
 
 
 
-.texto{background-color: rgb(255, 0, 0);}
+.texto{background-color: rgb(255, 0, 0);
+text-align: center;}
  
 
     p{font-size: 200%;
